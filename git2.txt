@@ -1,0 +1,6 @@
+Week 1 Test 
+Test file to upload for practice. 
+
+Test upload from Git Bash 
+
+Ian 
